@@ -1,4 +1,4 @@
-# Aptitude-For-Placements
+# Aptitude For Placements
 
 This repository is a comprehensive collection of aptitude questions and exercises designed specifically for placement preparation and competitive exams. 
 It covers essential topics such as Quantitative Aptitude, Logical Reasoning, Verbal Ability, and Data Interpretation, which are commonly tested in the aptitude rounds of campus placements, internships, and job assessments.
