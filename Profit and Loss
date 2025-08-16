@@ -1,4 +1,6 @@
 Profit & Loss – Placement Exercise
+NOTE: This kind of question is very common in campus placements (TCS, Infosys, Wipro, Capgemini, etc.) because it mixes marked price, discount, and selling price.
+
 Problem
 A shopkeeper buys an article at a discount of 20% on the marked price. 
 He then sells it at a price which is 20% more than the marked price. 
@@ -22,5 +24,3 @@ Profit % = (Profit ÷ CP) × 100 = (40 ÷ 80) × 100 = 50% ✅
 
 Final Answer
 👉 The shopkeeper makes a 50% profit.
-
-⚡ This kind of question is very common in campus placements (TCS, Infosys, Wipro, Capgemini, etc.) because it mixes marked price, discount, and selling price.
