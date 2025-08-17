@@ -7,6 +7,8 @@ Each section includes well-structured problems with solutions and explanations, 
 
 Whether you are a student preparing for campus placements, an aspiring professional aiming for competitive exams, or simply someone looking to sharpen your reasoning skills, this repository serves as a one-stop resource to strengthen your aptitude skills and boost confidence before assessments. 🚀
 
+#### Suggested Resource: https://www.indiabix.com/
+
 🎯 Goals
 
 To provide a one-stop resource for practicing placement-related problems.
