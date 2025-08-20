@@ -1,0 +1,23 @@
+Ratio and Proportion - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Infosys, TCS, Wipro, etc.) 
+because it makes the use of concepts of percentage and simplification along with the concepts of ratio.
+
+Problem:
+One number is 20% more than a third number, 
+and the second number is 50% more than the third number. 
+Find the ratio of the three numbers.
+
+Solution:
+(Assume third number = 100):
+First number = 100 + 20% of 100 = 120
+Second number = 100 + 50% of 100 = 150
+Third number = 100
+
+(Form the ratio):
+First : Second : Third = 120 : 150 : 100
+
+(Simplify):
+Divide by 10 → 12 : 15 : 10✅
+
+Final Answer
+👉The ratio of three numbers is 12 : 15 : 10
