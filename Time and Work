@@ -1,0 +1,25 @@
+Time and work - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Infosys, TCS, Wipro, etc.) 
+because it makes the use of concepts of work and efficiency.
+
+Problem: 
+A can finish a piece of work in 15 days. 
+B can finish the same work in 10 days. 
+In how many days will they finish it together?
+
+Solution: 
+(Take LCM of 15 and 10 for total work):
+LCM(15, 10) = 30 units of work (assumed total work).
+
+(Find efficiency of each):
+A’s 1 day work = 30 ÷ 15 = 2 units/day
+B’s 1 day work = 30 ÷ 10 = 3 unit/day
+
+(Work done together in 1 day):
+2 + 3 = 5 units/day
+
+(Total time = Total work ÷ Efficiency):
+30 ÷ 5 = 6 days✅
+
+Final Answer
+👉A and B will finish the work together in 6 days.
