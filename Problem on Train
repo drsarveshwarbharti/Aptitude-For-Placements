@@ -1,11 +1,12 @@
 Problem on Train - Placement Exercise
-NOTE: This kind of question is very common in campus placement (Accenture, TCS, Wipro, etc.) because it makes the use of distance, speed and time.
+NOTE: This kind of question is very common in campus placement (Accenture, TCS, Wipro, etc.) 
+because it makes the use of distance, speed and time.
 
-Problem
+Problem:
 A train 200 metres long runs at 60 km/hr. 
 Find the time taken to cross a bridge 300 metres long.
 
-Solution
+Solution:
 (Total distance):
 Distance = length of train + length of bridge = 200 + 300 = 500 metres
 
