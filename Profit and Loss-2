@@ -1,0 +1,31 @@
+Problem on Profit & Loss - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of profit and loss.
+
+Problem:
+A shopkeeper buys a shirt for ₹800. 
+He marks its price 25% above the cost price. 
+He then gives a 10% discount on the marked price and sells it.
+Find profit percentage.
+
+Solution:
+Find Marked Price (MP)
+MP = CP + 25% of CP
+MP= 800 + 25% ​× 800
+MP= 1000
+
+Apply discount of 10% on MP
+Discount = 10% of 1000
+Discount = 100
+
+SP = MP − Discount 
+SP= 1000−100 = 900
+
+Profit = SP - CP
+Profit = 900-800 = 100
+
+Profit % = (Profit/ CP) x 100
+Profit % = (100/800) x100 = 12.5% ✅
+
+👍Final Answer: The Profit Percentage will be 12.5%
+
