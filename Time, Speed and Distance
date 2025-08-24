@@ -1,0 +1,20 @@
+Problem on Time, Speed and Distance - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of simple formula and calculations.
+
+Problem:
+A train travels 180 km at a speed of 60 km/h. 
+On the return journey, its speed is 90 km/h.
+Find the average speed of the train for the whole journey.
+
+Solution:
+For finding average speed for equal distances their is a formula
+Avg Speed = (2 x S1 x S2) / (S1+ S2)
+
+According to the question 
+S1 = 60km/hr 
+S2 = 90km/hr
+
+Avg Speed = (2 x 60 x 90) /(60 + 90) = 72km/hr ✅
+
+👍Final Answer: The average speed is 72 km/h.
