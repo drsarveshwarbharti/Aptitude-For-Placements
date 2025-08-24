@@ -1,0 +1,19 @@
+Problem on Probability - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of probability logics.
+
+Problem:
+Three fair coins are tossed simultaneously. 
+Find the probability of getting atmost two heads.
+
+Solution: 
+Each coin can be Head (H) or Tail (T).
+Sample Space S = {HHH,HHT,HTH,THH,HTT,THT,TTH,TTT}
+
+“At most two heads” means 0, 1, or 2 heads. 
+Total favourable outcomes = HHT,HTH,THH,HTT,THT,TTH,TTT 
+
+Probability = Total favourable outcomes/ Total outcomes
+Probability = 7/8✅
+
+👉Final Answer: Probability of at most two heads = 7/8.
