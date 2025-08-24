@@ -1,0 +1,21 @@
+Problem on Partnership - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Partnership.
+
+Problem:
+A and B start a business. 
+A invests ₹12,000 and B invests ₹8,000. 
+At the end of one year, they earn a profit of ₹20,000. 
+Find each person’s share in the profit.
+
+Solution:
+A invests ₹12,000 and B invests ₹8,000. 
+Investment ratio = 12000 : 8000 = 3 : 2.
+
+Since both A and B invested their money for the same time period (1 year), 
+the profit is divided in the same ratio as the investment ratio.
+
+A’s share = (3/5) x 20,000 = ₹12,000. ✅
+B’s share = (2/5) x 20,000 = ₹8,000.  ✅
+
+👍Final Answer: A gets twelve 12,000 and B gets 8,000.
