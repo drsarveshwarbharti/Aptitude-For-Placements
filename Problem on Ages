@@ -1,0 +1,22 @@
+Problem on Ages - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of basic linear equations.
+
+Problem:
+The present ages of A and B are in the ratio 3 : 5.
+After 6 years, the ratio of their ages will be 2 : 3. 
+Find the present ages of A and B.
+
+Solution:
+Let the present ages be = 3x (A) and 5x (B)
+
+After 6 years, A’s age will be 3x + 6 and B’s age will be 5x + 6.
+(3x + 6) / (5x + 6) = 2 / 3.
+3 × (3x + 6) = 2 × (5x + 6).
+So, x = 6.
+
+Put the value of x back:
+A = 3 × 6 = 18 years.
+B = 5 × 6 = 30 years.✅ 
+
+👍Final Answer: A is 18 years old and B is 30 years old.
