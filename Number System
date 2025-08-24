@@ -1,0 +1,17 @@
+Problem on Number System - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Number System.
+
+Problem:
+The HCF of two numbers is 18,
+their LCM is 2340. 
+If one of the numbers is 270, 
+find the other number.
+
+Solution:
+Formula is First number × Second number = HCF × LCM
+
+Substitute values 270 × Second number = 18 x 2340
+                        Second number=156✅
+
+👍 Final Answer: The other number is 156.
