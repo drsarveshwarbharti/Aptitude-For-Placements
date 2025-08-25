@@ -7,14 +7,21 @@ A train 200 metres long runs at 60 km/hr.
 Find the time taken to cross a bridge 300 metres long.
 
 Solution:
+Note: Formula to be used to solve the problem: 
+           Distance = Speed X Time
+Therefore, Time = Distance / Speed
+
+Now,
 (Total distance):
 Distance = length of train + length of bridge = 200 + 300 = 500 metres
 
 (Speed in m/sec):
 60 × (1000/3600) = 60 × (5/18) = 16.67 m/sec
 
+Thus,
 (Time = Distance ÷ Speed):
 500 ÷ 16.67 ≈ 30 seconds✅
 
 Final Answer:
 👉Thus train takes 30 seconds to cross.
+
