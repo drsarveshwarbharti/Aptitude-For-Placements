@@ -1,0 +1,35 @@
+Problem on Train-4 - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Accenture, TCS, Wipro, etc.) 
+because it makes the use of distance, speed and time.
+
+Problem:
+A train passes a pole in 10 seconds and
+the same train passes a platform of length 200 meters in 30 seconds.
+Find the speed of the train and the length of the train.
+
+Solution:
+Note: Formula to be used to solve the problem:
+Distance = Speed × Time
+
+(Train crossing the pole)
+When a train crosses a pole, the distance covered = length of the train.
+So, Length of train = Speed × 10
+
+(Train crossing the platform)
+When a train crosses a platform, the distance covered = length of train + length of platform.
+So, Length of train + 200 = Speed × 30
+
+(Equation formation)
+From pole: Length of train = 10 × Speed
+From platform: Length of train + 200 = 30 × Speed
+
+(Substitute)
+10 × Speed + 200 = 30 × Speed
+200 = 20 × Speed
+Speed = 10 m/s
+
+(Length of train)
+Length of train = 10 × Speed = 10 × 10 = 100 meters ✅
+
+Final Answer:
+👍The speed of the train is 10 m/s and the length of the train is 100 meters.
