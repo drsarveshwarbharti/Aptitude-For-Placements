@@ -1,0 +1,35 @@
+Problem on Train-3 - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Accenture, TCS, Wipro, etc.) 
+because it makes the use of distance, speed and time.
+
+Problem:
+A train of length 180 meters passes a pole in 12 seconds. 
+After that, it passes a bridge in 30 seconds. 
+Find the length of the bridge.
+
+Solution:
+Note: Formula to be used to solve the problem:
+Distance = Speed × Time
+
+(Distance)
+When a train crosses a pole, the distance covered = length of the train.
+Distance = 180 meter.
+
+Here, Time to cross a pole = 12 seconds
+
+(Speed)
+So, Speed = Distance ÷ Time = 180 ÷ 12 = 15 m/s.
+
+(Time to cross the bridge)
+When a train crosses a bridge, the distance covered = length of train + length of bridge.
+Here, Time = 30 seconds and Speed = 15 m/s.
+
+(Distance covered while crossing the bridge)
+Distance = Speed × Time = 15 × 30 = 450 meters.
+
+(Length of the bridge)
+450 = 180 + Length of bridge
+Length of bridge = 450 – 180 = 270 meters ✅
+
+Final Answer:
+👍The length of the bridge is 270 meters.
