@@ -7,6 +7,8 @@ A train runs at 54 km/h and passes a pole in 12 seconds.
 Find the length of the train.
 
 Solution:
+Note: Formula to be used to solve the problem: 
+           Distance = Speed x Time
 
 (Distance):
 When a train crosses a pole, the distance covered = length of the train
@@ -14,6 +16,9 @@ When a train crosses a pole, the distance covered = length of the train
 (Speed in m/sec):
 We know that to change km/h into m/s, we multiply by 5/18.
 So, 54 × (5/18) = 15 m/s.
+
+(Time)
+Given time to pass the pole = 12 sec.
 
 Thus,
 (Distance = Speed x Time)
