@@ -1,0 +1,32 @@
+Problem on Train-5 - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Accenture, TCS, Wipro, etc.) 
+because it makes the use of distance, speed and time.
+
+Problem:
+Two trains are moving towards each other on parallel tracks. 
+Train A is 150 meters long and runs at 54 km/h. 
+Train B is 120 meters long and runs at 36 km/h. 
+Find the time taken for the two trains to completely cross each other.
+
+Solution:
+Note: Formula to be used: 
+      Distance = Speed × Time
+
+Concept of relative speed:
+If two objects move towards each other, their relative speed = sum of their speeds.
+If they move in the same direction, their relative speed = difference of their speeds.
+
+(Relative speed in m/s)
+To convert km/h to m/s, multiply by 5/18.
+Speed of Train A = 54 × (5/18) = 15 m/s.
+Speed of Train B = 36 × (5/18) = 10 m/s.
+Relative speed = 15 + 10 = 25 m/s (since trains move towards each other).
+
+(Distance to be covered)
+When two trains cross each other completely, distance covered = sum of their lengths = 150 + 120 = 270 meters.
+
+(Time to cross)
+Time = Distance ÷ Relative speed = 270 ÷ 25 = 10.8 seconds.✅
+
+Final Answer:
+👍The two trains will completely cross each other in 10.8 seconds.
