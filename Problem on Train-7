@@ -1,0 +1,22 @@
+Problem on Train-7 - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Accenture, TCS, Wipro, etc.) 
+because it makes the use of distance, speed and time.
+
+Problem:
+Stations M and N are 276 km apart. 
+Train A starts from M towards N at 30 km/h at the same time Train B starts from N towards M at 16 km/h.
+Find after how many hours they meet
+
+Solution:
+Note: Formula to be used: 
+      Distance = Speed × Time
+
+Concept of relative speed:
+If two objects move towards each other, their relative speed = sum of their speeds.
+If they move in the same direction, their relative speed = difference of their speeds.
+
+So, Relative speed = 30 + 16 = 46 km/h.
+Time until meeting = Distance ÷ Relative speed = 276 ÷ 46 = 6 hours ✅
+
+Final Answers:
+👍 They meet after 6 hours.
