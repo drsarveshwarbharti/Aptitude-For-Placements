@@ -1,0 +1,24 @@
+Problem on Train-2 - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Accenture, TCS, Wipro, etc.) 
+because it makes the use of distance, speed and time.
+
+Problem:
+A train runs at 54 km/h and passes a pole in 12 seconds.
+Find the length of the train.
+
+Solution:
+
+(Distance):
+When a train crosses a pole, the distance covered = length of the train
+
+(Speed in m/sec):
+We know that to change km/h into m/s, we multiply by 5/18.
+So, 54 × (5/18) = 15 m/s.
+
+Thus,
+(Distance = Speed x Time)
+15 × 12 = 180 meter.✅
+
+Final Answer:
+👍The train is 180 meters long.
+
