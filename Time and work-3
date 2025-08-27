@@ -1,0 +1,28 @@
+Time and work-3 - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Infosys, TCS, Wipro, etc.) 
+because it makes the use of concepts of time, work and efficiency.
+
+Problem:
+Q can complete a work in 30 days.
+Q is 25% more efficient than P.
+Find the time taken by P alone to complete the same work.
+
+Solution:
+Note: Formula to be used to solve the problem
+      Work = Efficiency x Time
+
+(Assume efficiencies)
+Let P’s efficiency = 100.
+Then Q’s efficiency = 125 (since Q is 25% more efficient). 
+Ratio of Efficiency of P : Q = 4 : 5
+
+(Find total work using Q)
+Work = Efficiency × Time
+     = 5 × 30 = 150 units 
+
+(Time taken by P)
+Time = Work ÷ Efficiency of P
+     = 150 ÷ 4 = 37.5 days✅
+
+Final Answer:
+👍P alone can complete the work in 37.5 days.
