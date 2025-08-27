@@ -1,0 +1,31 @@
+Problem on Train-6 - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Accenture, TCS, Wipro, etc.) 
+because it makes the use of distance, speed and time.
+
+Problem:
+A train 180 meters long is running at 54 km/h. 
+A man is walking on the track in the same direction at 6 km/h. 
+Find the time taken by the train to completely cross the man.
+
+Solution:
+Note: Formula to be used: 
+      Distance = Speed × Time
+
+Concept of relative speed:
+If two objects move towards each other, relative speed = sum of their speeds.
+If they move in the same direction, relative speed = difference of their speeds.
+
+(Relative speed in m/s)
+Convert both speeds into m/s by multiplying with 5/18.
+Train's speed = 54 × (5/18) = 15 m/s.
+Man's speed = 6 × (5/18) = 5/3 ≈ 1.67 m/s.
+Relative speed = 15 – 1.67 = 13.33 m/s.
+
+(Distance to be covered)
+The train has to cover its own length to cross the man = 180 meters.
+
+(Time to cross)
+Time = Distance ÷ Relative speed = 180 ÷ 13.33 ≈ 13.5 seconds.✅
+
+Final Answer
+👍The train will completely cross the man in 13.5 seconds.
