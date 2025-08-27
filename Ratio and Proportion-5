@@ -1,0 +1,23 @@
+Ratio and Proportion-5 - Placement Exercise
+NOTE: This kind of question is very common in campus placement (Infosys, TCS, Wipro, etc.) 
+because it makes the use of concepts of percentage and simplification along with the concepts of ratio.
+
+Problem:
+The ratio of two numbers is 2 : 3 
+and their product is 726.
+Find the two numbers.
+
+Solution:
+Let the numbers be 2x and 3x
+
+Product = (2x) × (3x) = 6x²
+(Given product = 726):
+So according to the question:
+6x² = 726
+ x = 11
+
+First number = 2x = 2 × 11 = 22
+Second number = 3x = 3 × 11 = 33 ✅
+
+Final Answer
+👉 The two numbers are 22 and 33
