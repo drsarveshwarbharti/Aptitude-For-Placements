@@ -8,6 +8,9 @@ B can finish the same work in 10 days.
 In how many days will they finish it together?
 
 Solution: 
+Note: Formula to be used to solve the problem
+      Work = Efficiency x Time
+
 (Take LCM of 15 and 10 for total work):
 LCM(15, 10) = 30 units of work (assumed total work).
 
