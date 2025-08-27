@@ -9,6 +9,9 @@ C and A together can complete it in 15 days.
 Find in how many days A, B, and C can complete the work if they work together.
 
 Solution:
+Note: Formula to be used to solve the problem
+      Work = Efficiency x Time
+
 (Take LCM for total work)
 LCM of 10, 12, and 15 = 60 units of total work.
 
