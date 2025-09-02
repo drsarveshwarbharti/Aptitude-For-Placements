@@ -1,4 +1,4 @@
-Problem on Average - Placement Exercise
+Problem on Average-1 - Placement Exercise
 NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
 because it makes the use of average and some basic logic.
 
@@ -13,7 +13,7 @@ Original total weight =  30 * 60 = 1800
 Now one student left so, number of students = 29
 New total weight =  29 * 59 = 1711
 
-Weight of the student who left = 1800−1711=89✅
+Weight of the student who left = 1800 − 1711 = 89✅
 
 Final Answer
 👍Weight of the student who left = 89 kg.
