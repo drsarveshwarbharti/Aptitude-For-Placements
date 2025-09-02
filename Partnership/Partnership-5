@@ -24,7 +24,7 @@ Given ratio = 6 : 9 : 5, so
 Since M and N already match the ratio 6 : 9, we only need to compare N and P to find P’s time.
 
 So, compare N and P:
-(72,000) / (20,000t) = 9 / 5
+(72,000) / (20,000 x t) = 9 / 5
 Cross multiplying:
 72,000 × 5 = 9 × 20,000t
 3,60,000 = 1,80,000t
