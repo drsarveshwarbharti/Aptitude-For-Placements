@@ -1,0 +1,26 @@
+Problem on Partnership-2 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Partnership.
+
+Problem:
+P and Q buy a hotel. 
+P invests 6 times what Q invests. 
+At the end of one year, the total profit is ₹84,000. 
+Find P’s share in the profit.
+
+Solution:
+Note: Profit is divided in the same ratio as the investments.
+
+Let Q’s investment = ₹x.
+Then P’s investment = ₹6x.
+So, the investment ratio = 6 : 1.
+
+Since both invested for the same time, the profit will be divided in the ratio 6 : 1.
+
+Total profit = ₹84,000
+Total parts = 6 + 1 = 7 parts
+
+P’s share = (6/7) × 84,000 = ₹72,000✅
+Q’s share = (1/7) × 84,000 = ₹12,000✅
+
+👍Final Answer: P gets ₹72,000 and Q gets ₹12,000.
