@@ -1,4 +1,4 @@
-Problem on Partnership - Placement Exercise
+Problem on Partnership-1 - Placement Exercise
 NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
 because it makes the use of Partnership.
 
@@ -9,6 +9,8 @@ At the end of one year, they earn a profit of ₹20,000.
 Find each person’s share in the profit.
 
 Solution:
+Note: The profit is always divided in the same ratio as the investment ratio.
+
 A invests ₹12,000 and B invests ₹8,000. 
 Investment ratio = 12000 : 8000 = 3 : 2.
 
