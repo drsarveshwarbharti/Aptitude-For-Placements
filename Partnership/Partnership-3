@@ -13,9 +13,9 @@ Note: When the time of investment is different,
 we multiply each partner’s Investment by the time (in months) for which it was invested. 
 Rest the logic is the same — the ratio of (Investment × Time) will be the ratio in which the profit is divided.
 
-Rohit’s investment = ₹40,000 for 12 months = 40,000 × 12 = 4,80,000
-Raj’s investment = ₹50,000 for 8 months = 50,000 × 8 = 4,00,000
-Investment Ratio = 4,80,000 : 4,00,000 = 6 : 5
+Rohit’s investment = ₹40,000 for 12 months            = 40,000 × 12 = 4,80,000
+Raj’s investment = ₹50,000 for 8 months               = 50,000 × 8 = 4,00,000
+Investment Ratio of Rohit : Raj = 4,80,000 : 4,00,000 = 6 : 5
 So, Profit Sharing Ratio of Rohit : Raj = 6  : 5
 
 Total profit = ₹1,10,000
