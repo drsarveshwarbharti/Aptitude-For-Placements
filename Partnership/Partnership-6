@@ -1,0 +1,28 @@
+Problem on Partnership-6 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Partnership.
+
+Problem:
+A and V invest in the ratio 5 : 2. 
+After donating 10% of the profit to an orphanage, A gets ₹3,420 as profit. 
+Find the total profit.
+
+Solution:
+Note: The profit is always divided in the same ratio as the investment ratio.
+
+Since Investment ratio = Profit ratio = 5 : 2
+
+Let total profit = 100x
+Donation = 10% of 100x = 10x
+Remaining profit = 100x − 10x = 90x
+
+This 90x is divided in the ratio 5 : 2 because after donating, the remaining profit will be distributed.
+So, A’s share = (5/7) × 90x = (450/7)x
+
+Given A’s share = 3,420
+So, (450/7)x = 3,420
+           x = 53.2
+
+Total profit = 100x = 100 × 53.2 = 5,320✅
+
+👍Final Answer: The total profit = ₹5,320.  
