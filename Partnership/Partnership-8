@@ -1,0 +1,28 @@
+Problem on Partnership-8 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Partnership.
+
+Problem:
+Ram and Shyam together invested ₹15,000 in a business. 
+At the end of the year, the total profit was ₹2,000. 
+Shyam got ₹600 as his share of profit. 
+How much did Ram invest?
+
+Solution:
+Note: The profit is always divided in the same ratio as the investment ratio.
+
+Given Total profit = ₹2,000
+Shyam’s share = ₹600
+Ram’s share = 2,000 − 600 = ₹1,400
+So, profit ratio = Ram : Shyam = 1,400 : 600 = 14 : 6 = 7 : 3
+
+Let Ram’s investment = ₹x
+Then Shyam’s investment = ₹(15,000 − x)
+
+Since profit is divided in the ratio of their investments,
+so, ( x / 15000 - x ) = 7 / 3
+                   3x = 7(15,000 − x)
+                   3x = 1,05,000 − 7x
+                    x = 10,500✅
+
+👍Final Answer: Ram invests ₹10,500.
