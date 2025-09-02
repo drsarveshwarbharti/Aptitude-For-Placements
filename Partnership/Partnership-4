@@ -1,0 +1,26 @@
+Problem on Partnership-4 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Partnership.
+
+Problem:
+P, Q, and R start a hotel. 
+Q and R invest equally, but P invests only 1/5th of Q’s investment. 
+At the end of one year, the profit is ₹22,000. 
+Find Q’s share in the profit.
+
+Solution:
+Note: The profit is always divided in the same ratio as the investment ratio.
+
+Let Q’s investment = ₹x.
+Then R’s investment = ₹x (since Q and R invest equally).
+P’s investment = (1/5) of Q = (1/5) * x = ₹x/5.
+
+So, investment ratio of P : Q : R respectively = (x/5) : x : x = 1 : 5 : 5
+Because when we divide each term by x/5, it simplifies to 1 : 5 : 5.
+
+Total profit = ₹22,000
+Total parts = 1 + 5 + 5 = 11 parts
+
+Q’s share = (5/11) × 22,000 = ₹10,000 ✅
+
+👍Final Answer: Q gets ₹10,000. 
