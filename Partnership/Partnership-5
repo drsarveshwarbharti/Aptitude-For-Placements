@@ -10,7 +10,9 @@ The total profit is ₹1,12,000.
 Find the time of investment of P.
 
 Solution:
-Note: The profit is always divided in the same ratio as the investment ratio.
+Note: When the time of investment is different, 
+we multiply each partner’s Investment by the time (in months) for which it was invested. 
+Rest the logic is the same — the ratio of (Investment × Time) will be the ratio in which the profit is divided.
 
 M’s investment = ₹4,000 for 12 months             = 4,000 × 12 = 48,000.
 N’s investment = ₹8,000 for (12 − 3) = 9 months   = 8,000 × 9 = 72,000.
