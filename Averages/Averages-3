@@ -7,7 +7,7 @@ The average of 6 numbers is 8.
 What should be the 7th number so that the new average becomes 10?
 
 Solution: 
-Note: Formula of Average = Sum of observations / No. of observations.
+Note: Formula of Average = Sum of observations / No. of observations.\
 
 Since average = ( sum ÷ number of observation ),
 So, sum = (number of observation X average )
