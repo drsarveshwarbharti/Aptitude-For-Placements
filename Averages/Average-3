@@ -1,0 +1,21 @@
+Problem on Average-3 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of average and some basic logic.
+
+Problem:
+The average of 6 numbers is 8.
+What should be the 7th number so that the new average becomes 10?
+
+Solution: 
+Note: Formula of Average = Sum of observations / No. of observations.
+
+Since average = ( sum ÷ number of observation ),
+So, sum = (number of observation X average )
+Original total sum of 6 numbers = 6 × 8 = 48
+
+New total sum needed for 7 numbers = 7 × 10 = 70
+
+7th number = 70 − 48 = 22 ✅
+
+Final Answer
+👍 The 7th number = 22
