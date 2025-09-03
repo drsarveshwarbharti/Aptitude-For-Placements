@@ -1,0 +1,22 @@
+Problem on Averages-6 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of average and some basic logic.
+
+Problem:
+The average temperature of a week was calculated as 32°C. 
+Later, it was realized that the temperature of Monday was taken as 30°C instead of 16°C.
+Find the correct average temperature of the week.
+
+Solution: 
+Note: Formula of Average = Sum of observations / No. of observations.
+
+Original total = 7 × 32 = 224
+
+Error = 30 − 16 = 14
+
+Correct total = 224 − 14 = 210
+
+Correct average = 210 ÷ 7 = 30 ✅
+
+Final Answer
+👍 The correct average temperature of the week = 30°C
