@@ -1,0 +1,22 @@
+Problem on Average-4 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of average and some basic logic.
+
+Problem:
+The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg.
+Find the weight of the new person.
+
+Solution: 
+Note: Formula of Average = Sum of observations / No. of observations.
+
+When the average increases by 2.5 kg, the total weight of all 8 persons increases by:
+Increase in sum = 8 × 2.5 = 20
+
+This extra 20 kg is because the new person is heavier than the one who left.
+So,
+Weight of new person = Weight of old person + Increase
+                     = 65 + 20
+                     = 85 ✅
+
+Final Answer
+👍 The weight of the new person = 85 kg.
