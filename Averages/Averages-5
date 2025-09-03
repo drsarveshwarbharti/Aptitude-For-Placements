@@ -1,0 +1,20 @@
+Problem on Average-5 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of average and some basic logic.
+
+Problem:
+Find the average of all even numbers between 104 and 148.
+
+Solution: 
+Note: When the sequence forms Arithmetic Progression then
+      average = (first term + last term) ÷ 2.
+      AP (Arithmetic Progression) is a sequence of numbers in which the difference between any two consecutive terms is always the same.
+
+The even numbers between 104 and 148 are in an arithmetic sequence:
+106, 108, 110, … , 146
+
+In an arithmetic sequence, the average = (First term + Last term) ÷ 2
+Average = (106 + 146) ÷ 2 = 252 ÷ 2 = 126 ✅
+
+Final Answer
+👍 The average of even numbers between 104 and 148 = 126
