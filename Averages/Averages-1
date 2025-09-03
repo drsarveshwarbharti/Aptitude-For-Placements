@@ -8,6 +8,8 @@ If one student leaves, the new average becomes 59 kg.
 Find the weight of the student who left.
 
 Solution: 
+Note: Formula of Average = Sum of observations / No. of observations.
+
 Original total weight =  30 * 60 = 1800
 
 Now one student left so, number of students = 29
