@@ -3,19 +3,17 @@ NOTE: This kind of question is very common in campus placement (Infosys, TCS, Wi
 because it makes the use of concepts of percentage and simplification along with the concepts of ratio.
 
 Problem:
-One number is 20% less than the third number,
-and the second number is 40% less than the third number.
-Find the ratio of the two numbers.
+If 0.75 : x :: 5 : 8, then x is equal to:
 
 Solution:
-(Assume third number = 100):
-First number = 100 − 20% of 100 = 80
-Second number = 100 − 40% of 100 = 60
-Third number = 100
+We know that,
+a : b :: c : d means  a/b = c/d
 
-(Form the ratio):
-First : Second  = 80 : 60 
-                = 4 : 3 ✅
+So,
+0.75 / x = 5 / 8
+x = 6 ÷ 5
+x = 1.2 ✅
 
-Final Answer
-👉 The ratio of the two numbers is 4 : 3
+Final Answer:
+👍x = 1.2
+
