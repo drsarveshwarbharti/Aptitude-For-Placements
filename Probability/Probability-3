@@ -4,7 +4,9 @@ because it makes the use of probability logics.
 
 Problem:
 A dice is thrown once.
-What is the probability of getting (a) an even number, (b) a number greater than 4?
+What is the probability of getting 
+(a) an even number, 
+(b) a number greater than 4?
 
 Solution: 
 Note: Probability = Favourable outcomes ÷ Total outcomes
