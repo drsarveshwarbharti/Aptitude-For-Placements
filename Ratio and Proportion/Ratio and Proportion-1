@@ -3,19 +3,19 @@ NOTE: This kind of question is very common in campus placement (Infosys, TCS, Wi
 because it makes the use of concepts of percentage and simplification along with the concepts of ratio.
 
 Problem:
-One number is 20% more than the third number, 
-The second number is 50% more than the third number. 
-Find the ratio of the three numbers.
+One number is 20% less than the third number,
+and the second number is 40% less than the third number.
+Find the ratio of the two numbers.
 
 Solution:
 (Assume third number = 100):
-First number = 100 + 20% of 100 = 120
-Second number = 100 + 50% of 100 = 150
+First number = 100 − 20% of 100 = 80
+Second number = 100 − 40% of 100 = 60
 Third number = 100
 
 (Form the ratio):
-First : Second : Third = 120 : 150 : 100
-Thus, 12 : 15 : 10✅
+First : Second  = 80 : 60 
+                = 4 : 3 ✅
 
 Final Answer
-👉The ratio of three numbers is 12 : 15 : 10
+👉 The ratio of the two numbers is 4 : 3
