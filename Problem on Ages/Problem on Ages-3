@@ -1,0 +1,39 @@
+Problem on Ages-3 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of basic linear equations.
+
+Problem:
+12 years ago, the age of P was 3 times the age of Q.
+After 12 years, the ratio of ages of Q to P will be 2 : 3.
+What is the present age of P?
+
+Solution:
+Let the present age of Q = x
+So, the present age of P = y
+
+12 years ago:
+P’s age = y - 12
+Q’s age = x - 12
+
+According to the condition-1 ( 12 years ago ):
+y - 12 = 3(x − 12)
+y = 3x − 24             …(i)
+
+According to the condition-2 ( after 12 years ):
+(x + 12) / (y + 12) = 2 / 3
+3(x + 12) = 2(y + 12)
+3x + 12 = 2y            …(ii)
+
+Substitute (i) into (ii):
+3x + 12 = 2(3x − 24)
+3x + 12 = 6x − 48
+60 = 3x
+x = 20
+
+Now from (i):
+y = 3x − 24 = 3(20) − 24 = 60 − 24 = 36
+
+So, P’s present age = 36 years ✅
+
+Final Answer:
+👍 P’s present age = 36 years.
