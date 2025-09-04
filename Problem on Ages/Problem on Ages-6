@@ -1,0 +1,28 @@
+Problem on Ages-6 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of basic linear equations.
+
+Problem:
+The average age of a group of 4 friends is 36 years.
+The youngest friend among them is 6 years old.
+What was the average age of the group at the time of the birth of the youngest?
+
+Solution:
+Average = Sum of observation x No of observation
+Average age of 4 friends = 36
+So, total sum of age of 4 friends = 36 × 4 = 144
+
+Youngest friend’s age = 6 years
+👉 That means 6 years ago, this friend was born.
+
+6 years ago:
+Subtract 6 years from each of the 4 friends’ ages
+Total sum of age of group = 144 − (6 × 4)
+                          = 144 − 24 = 120
+
+Now, we have to find the average at the time of birth of youngest
+So, number of persons in the group will be = 3
+Average age = 120 ÷ 3 = 40 ✅
+
+Final Answer:
+👍 Average age of group 6 years ago = 120 ÷ 3 = 40 .
