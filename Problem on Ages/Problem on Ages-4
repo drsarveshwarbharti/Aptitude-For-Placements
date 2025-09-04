@@ -1,0 +1,24 @@
+Problem on Ages-4 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of basic linear equations.
+
+Problem:
+The average age of Ram and Shyam is 65 years.
+The average age of Ram, Shyam, and John is 53 years.
+What is the age of John?
+
+Solution:
+Average age of Ram and Shyam = 65
+Sum of observation = Average X No of observations
+So, sum of their ages = 65 × 2 = 130
+
+Average age of Ram, Shyam, and John = 53
+So, sum of their ages = 53 × 3 = 159
+
+Now,
+John’s age = (Sum of 3 persons) − (Sum of Ram and Shyam)
+         = 159 − 130
+        = 29 ✅
+
+Final Answer:
+👍 John’s age = 29 years
