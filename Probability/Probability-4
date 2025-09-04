@@ -3,19 +3,25 @@ NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc
 because it makes the use of probability logics.
 
 Problem:
-Three fair coins are tossed simultaneously. 
-Find the probability of getting atmost two heads.
+At a traffic signal, the light can be Red, Yellow, or Green with equal chance.
+What is the probability that the light will be 
+(a) Red, 
+(b) Not Green?
 
-Solution:
-Note: Probability = Total favourable outcomes/ Total outcomes
+Solution: 
+Note : Probability = Total favourable outcomes/ Total outcomes
+Total possible outcomes = 3 (Red, Yellow, Green)
 
-Each coin can be Head (H) or Tail (T).
-Sample Space S = {HHH,HHT,HTH,THH,HTT,THT,TTH,TTT}
-
-“At most two heads” means 0, 1, or 2 heads. 
-Total favourable outcomes = 8 { HHT,HTH,THH,HTT,THT,TTH,TTT }
-
+(a) Red
+Favourable = 1 (Red)
 Probability = Total favourable outcomes/ Total outcomes
-Probability = 7/8 ✅
+Probability = 1 ÷ 3 = 1/3 ✅
 
-👉Final Answer: Probability of at most two heads = 7/8.
+(b) Not Green
+Favourable = {Red, Yellow} = 2
+Probability = Total favourable outcomes/ Total outcomes
+Probability = 2 ÷ 3 = 2/3 ✅
+
+Final Answer:
+👍 (a) Probability of Red = 1/3
+👍 (b) Probability of Not Green = 2/3
