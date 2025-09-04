@@ -1,4 +1,4 @@
-Problem on Percentage - Placement Exercise
+Problem on Percentage-1 - Placement Exercise
 NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
 because it makes the use of percentage and some basic calculation.
 
@@ -9,9 +9,12 @@ If the original salary is ₹100,
 find the net percentage change.
 
 Solution:
+Note: Net percentage change = ( New value - Old value / Old value ) x 100
+
 Consider Original salary = 100
 
-Increase by 12% means 12% of 100 = 12
+Increase by 12% 
+12% of 100 = 12
 New salary = 100 + 12 = 112
 
 Decrease by 8%
@@ -19,11 +22,14 @@ Decrease by 8%
 New salary = 112 − 8.96 = 103.04
 
 Compare with original
-Original = 100, Final = 103.04
+Original = 100,
+Final = 103.04
 Change = 103.04 − 100 = 3.04
 
-Net percentage change is = Change % of Original Salary
-                         = 3.04✅
+Net percentage change is = (Change / Original Salary) x 100
+                         = (3.04 / 100 ) x 100
+                         = 3.04 % ✅
 
-👍Final Answer:Net percentage change is 3.04
+👍Final Answer:
+Net percentage change is 3.04 %
 
