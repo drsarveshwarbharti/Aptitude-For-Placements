@@ -1,0 +1,42 @@
+Problem on Probability-7 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of probability logics.
+
+Problem:
+A card is drawn at random from a pack of 52 cards.
+What is the probability that it is 
+(a) a red card, 
+(b) a king,
+(c) face card (Jack, Queen, King)
+(d) Ace?
+
+Solution:
+Note: Probability = Total favourable outcomes/ Total outcomes
+
+Total cards = 52
+(a) Red cards in deck of cards = 26
+Probability = 26 ÷ 52 = 1/2 ✅
+
+(b) Kings in deck of cards = 4 
+Probability = 4 ÷ 52 = 1/13 ✅
+
+(c) 4 suits: ♥ Hearts, ♦ Diamonds, ♣ Clubs, ♠ Spades
+Each suit has 13 cards: A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K
+The J (Jack), Q (Queen), and K (King) are called face cards because they have faces drawn on them.
+
+Each suit has 3 face cards (J, Q, K)
+Total = 3 × 4 = 12 face cards in the whole pack
+Face cards = 3 in each suit × 4 suits = 12
+
+Probability = 12 ÷ 52 = 3/13 ✅
+
+(d) The A (Ace) is the first card of every suit. 
+    There are 4 suits then there would be 4 aces in a deck of card.
+Aces = 4
+Probability = 4 ÷ 52 = 1/13 ✅
+
+👉Final Answer: 
+Probability of Red cards =  1/2
+Probability of Kings =  1/13
+Probability of Face cards =  3/13
+Probability of Ace =  1/13
