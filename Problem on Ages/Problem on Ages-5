@@ -1,0 +1,30 @@
+Problem on Ages-5 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of basic linear equations.
+
+Problem:
+The average age of 10 students and their teacher is 15 years.
+The average age of the first seven students is 15 years and the average age of the last three students is 11 years.
+What is the teacher’s age?
+
+Solution:
+Note : Average = Sum of observation / No. of observation.
+
+Average of 10 students + teacher = 15
+Total people = 10 students + 1 teacher = 11
+Total sum of age of all (10 students + teacher) = 11 × 15 = 165
+
+Average of first seven students = 15
+Sum of first seven students = 7 × 15 = 105
+
+Average of last three students = 11
+Sum of last three students = 3 × 11 = 33
+
+Total sum of age of all 10 students = 105 + 33 = 138
+
+Teacher’s age = Total age of all (11 persons) − Total age of 10 students 
+              = 165 - 138
+              = 27 ✅
+
+Final Answer:
+👍 Teacher’s age = 27 years.
