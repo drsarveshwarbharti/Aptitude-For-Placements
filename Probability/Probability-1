@@ -6,12 +6,14 @@ Problem:
 Three fair coins are tossed simultaneously. 
 Find the probability of getting atmost two heads.
 
-Solution: 
+Solution:
+Note: Probability = Total favourable outcomes/ Total outcomes
+
 Each coin can be Head (H) or Tail (T).
 Sample Space S = {HHH,HHT,HTH,THH,HTT,THT,TTH,TTT}
 
 “At most two heads” means 0, 1, or 2 heads. 
-Total favourable outcomes = HHT,HTH,THH,HTT,THT,TTH,TTT 
+Total favourable outcomes = 8 { HHT,HTH,THH,HTT,THT,TTH,TTT }
 
 Probability = Total favourable outcomes/ Total outcomes
 Probability = 7/8 ✅
