@@ -3,30 +3,19 @@ NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc
 because it makes the use of probability logics.
 
 Problem:
-Two coins are tossed at the same time.
-What is the probability of getting 
-(a) two heads, 
-(b) at least one head?
+Three fair coins are tossed simultaneously. 
+Find the probability of getting atmost two heads.
 
-Solution: 
+Solution:
 Note: Probability = Total favourable outcomes/ Total outcomes
 
-When 2 coins are tossed 
-Outcomes = {HH, HT, TH, TT}
-So, total outcomes = 4
+Each coin can be Head (H) or Tail (T).
+Sample Space S = {HHH,HHT,HTH,THH,HTT,THT,TTH,TTT}
 
-(a) Two heads:
-Favourable outcomes = {HH} = 1
+“At most two heads” means 0, 1, or 2 heads. 
+Total favourable outcomes = 8 { HHT,HTH,THH,HTT,THT,TTH,TTT }
+
 Probability = Total favourable outcomes/ Total outcomes
-Probability = 1 ÷ 4 = 1/4 ✅
+Probability = 7/8 ✅
 
-(b) At least one head:
-Atleast one head means 1 or more heads so,
-Favourable outcomes = {HH, HT, TH} = 3
-Probability = Total favourable outcomes/ Total outcomes
-Probability = 3 ÷ 4 = 3/4 ✅
-
-Final Answer:
-👍 (a) Probability of two heads = 1/4
-👍 (b) Probability of at least one head = 3/4
-
+👉Final Answer: Probability of at most two heads = 7/8.
