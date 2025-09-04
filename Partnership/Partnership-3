@@ -3,24 +3,25 @@ NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc
 because it makes the use of Partnership.
 
 Problem:
-Rohit starts an agency by investing ₹40,000. 
-After 4 months, Raj joins with an investment of ₹50,000. 
-At the end of one year, the total profit is ₹1,10,000. 
-Find Raj’s share in the profit.
+P, Q, and R start a hotel. 
+Q and R invest equally, but P invests only 1/5th of Q’s investment. 
+At the end of one year, the profit is ₹22,000. 
+Find Q’s share in the profit.
 
 Solution:
-Note: When the time of investment is different, 
-we multiply each partner’s Investment by the time (in months) for which it was invested. 
-Rest the logic is the same — the ratio of (Investment × Time) will be the ratio in which the profit is divided.
+Note: The profit is always divided in the same ratio as the investment ratio.
 
-Rohit’s investment = ₹40,000 for 12 months            = 40,000 × 12 = 4,80,000
-Raj’s investment = ₹50,000 for 8 months               = 50,000 × 8 = 4,00,000
-Investment Ratio of Rohit : Raj = 4,80,000 : 4,00,000 = 6 : 5
-So, Profit Sharing Ratio of Rohit : Raj = 6  : 5
+Let Q’s investment = ₹x.
+Then R’s investment = ₹x (since Q and R invest equally).
+P’s investment = (1/5) of Q = (1/5) * x = ₹x/5.
 
-Total profit = ₹1,10,000
-Total parts = 6 + 5 = 11 parts
+So, investment ratio of P : Q : R respectively = (x/5) : x : x = 1 : 5 : 5
+Because when we divide each term by x/5, it simplifies to 1 : 5 : 5.
 
-Raj’s share = (5/11) × 1,10,000 = ₹50,000 ✅
+Total profit = ₹22,000
+Total parts = 1 + 5 + 5 = 11 parts
 
-👍Final Answer: Raj gets ₹50,000. 
+Q’s share = (5/11) × 22,000 = ₹10,000 ✅
+
+👍Final Answer: Q gets ₹10,000. 
+
