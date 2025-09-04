@@ -1,0 +1,28 @@
+Problem on Ages-2 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of basic linear equations.
+
+Problem:
+Ram is three times as old as Sam.
+Two years ago, he was five times as old as Sam.
+What is the present age of Ram?
+
+Solution:
+Let the present age of Sam = x
+So, the present age of Ram = 3x
+
+Two years ago:
+Sam’s age = x − 2
+Ram’s age = 3x − 2
+
+According to the condition:
+3x − 2 = 5(x − 2)
+3x − 2 = 5x − 10
+−2x = −8
+x = 4
+
+Now put the value of x back:
+Ram’s present age = 3 × 4 = 12 years ✅
+
+Final Answer:
+👍 Ram’s present age = 12 years.
