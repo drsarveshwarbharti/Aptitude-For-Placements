@@ -1,4 +1,4 @@
-Problem on Probability - Placement Exercise
+Problem on Probability-1 - Placement Exercise
 NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
 because it makes the use of probability logics.
 
@@ -14,6 +14,6 @@ Sample Space S = {HHH,HHT,HTH,THH,HTT,THT,TTH,TTT}
 Total favourable outcomes = HHT,HTH,THH,HTT,THT,TTH,TTT 
 
 Probability = Total favourable outcomes/ Total outcomes
-Probability = 7/8✅
+Probability = 7/8 ✅
 
 👉Final Answer: Probability of at most two heads = 7/8.
