@@ -9,12 +9,16 @@ Find the correct average temperature of the week.
 
 Solution: 
 Note: Formula of Average = Sum of observations / No. of observations.
+      Sum of observations = Average X No. of observations
 
-Original total = 7 × 32 = 224
+Here No. of observations is No. of days in week = 7
+Average = 32
+Original total sum = 7 × 32 = 224
 
+Temperature was taken as 30°C instead of 16°C 
 Error = 30 − 16 = 14
-
-Correct total = 224 − 14 = 210
+It means 14°C is the error that needs to be subtracted from the sum.
+Correct total sum of temperature = 224 − 14 = 210
 
 Correct average = 210 ÷ 7 = 30 ✅
 
