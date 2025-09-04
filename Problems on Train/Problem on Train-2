@@ -3,27 +3,24 @@ NOTE: This kind of question is very common in campus placement (Accenture, TCS, 
 because it makes the use of distance, speed and time.
 
 Problem:
-A train runs at 54 km/h and passes a pole in 12 seconds.
-Find the length of the train in meters.
+A train 200 metres long runs at 60 km/hr. 
+Find the time taken to cross a bridge 300 metres long.
 
 Solution:
 Note: Formula to be used to solve the problem: 
            Distance = Speed x Time
+Therefore, Time = Distance / Speed
 
-(Distance):
-When a train crosses a pole, the distance covered = length of the train
+Now,
+(Total distance):
+Distance = length of train + length of bridge = 200 + 300 = 500 metres
 
 (Speed in m/sec):
-We know that to change km/h into m/s, we multiply by 5/18.
-So, 54 × (5/18) = 15 m/s.
-
-(Time)
-Given time to pass the pole = 12 sec.
+60 × (1000/3600) = 60 × (5/18) = 16.67 m/sec
 
 Thus,
-(Distance = Speed x Time)
-15 × 12 = 180 meter.✅
+(Time = Distance ÷ Speed):
+500 ÷ 16.67 ≈ 30 seconds✅
 
 Final Answer:
-👍The train is 180 meters long.
-
+👉Thus train takes 30 seconds to cross.
