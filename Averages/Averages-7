@@ -1,0 +1,26 @@
+Problem on Averages-7 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of average and some basic logic.
+
+Problem:
+The average weight of 40 children in a class is 36.2 kg.
+Three more children join the class with weights 42.3 kg, 39.7 kg, and 39.5 kg.
+Find the new average weight of the class.
+
+Solution: 
+Note: Formula of Average = Sum of observations / No. of observations.
+      Sum of observations = Averages X No. of observations.
+
+Original total sum of weight = 40 × 36.2 = 1448
+
+Now 3 children join, so their total sum of weight = 42.3 + 39.7 + 39.5 = 121.5
+
+New total weight = Original total sum of weight + Sum of weight of three new children
+New total weight = 1448 + 121.5 = 1569.5
+
+New number of children = 43 ( 40 + 3 )
+
+New average = 1569.5 ÷ 43 = 36.5 ✅
+
+Final Answer
+👍 New average weight of 43 children = 36.5 kg
