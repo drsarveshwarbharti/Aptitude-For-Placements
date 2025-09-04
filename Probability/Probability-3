@@ -1,0 +1,27 @@
+Problem on Probability-3 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of probability logics.
+
+Problem:
+A dice is thrown once.
+What is the probability of getting (a) an even number, (b) a number greater than 4?
+
+Solution: 
+Note: Probability = Favourable outcomes ÷ Total outcomes
+
+Total outcomes when a dice is thrown = 6
+(Possible numbers: 1, 2, 3, 4, 5, 6)
+
+(a) Even number:
+Even numbers = {2, 4, 6} → 3 outcomes
+Probability = Favourable outcomes ÷ Total outcomes
+Probability = 3 ÷ 6 = 1/2 ✅
+
+(b) Number greater than 4:
+Numbers greater than 4 = {5, 6} → 2 outcomes
+Probability = Favourable outcomes ÷ Total outcomes
+Probability = 2 ÷ 6 = 1/3 ✅
+
+Final Answer:
+👍 (a) Probability of even number = 1/2
+👍 (b) Probability of number greater than 4 = 1/3
