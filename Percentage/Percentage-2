@@ -3,12 +3,31 @@ NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc
 because it makes the use of percentage and some basic calculation.
 
 Problem:
-An employee’s salary is increased by 12% and
-then decreased by 8%.
-If the original salary is ₹100, 
-find the net percentage change.
+If 15% of y is the same as 21% of z, 
+then 12.5% of y is what percent of z?
 
 Solution:
+(15/100) y = (21/100) z
+y = (21/15) z
+y = (7/5) z
+
+Now, 
+Let 12.5% of y = A % of z
+    12.5% of y = A % of z
+Substitute y = (7/5) z
+12.5 % of y can be written as 1/8 of y after simplification
+
+(1/8) × (7/5) z = A % of z 
+A = (7/40) X 100
+A = 17/5 %
+
+Final Answer:
+12.5% of y is 17.5% of z. ✅
+
+
+
+
+
 Note: Net percentage change = ( New value - Old value / Old value ) x 100
 
 Consider Original salary = 100
