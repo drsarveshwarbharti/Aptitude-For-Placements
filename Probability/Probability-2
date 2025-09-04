@@ -1,0 +1,19 @@
+Problem on Probability-2 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of probability logics.
+
+Problem:
+A bag contains 5 red balls and 3 green balls.
+One ball is picked at random.
+What is the probability that the ball is red?
+
+Solution: 
+Note: Probability = Favourable outcomes ÷ Total outcomes
+
+Total balls = 5 + 3 = 8
+Number of favourable outcomes (red balls) = 5
+Probability = Favourable outcomes ÷ Total outcomes
+           = 5 ÷ 8 ✅
+
+Final Answer:
+👍 Probability of picking a red ball = 5/8
