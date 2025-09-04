@@ -3,22 +3,20 @@ NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc
 because it makes the use of average and some basic logic.
 
 Problem:
-A family consist of grandparents, parents and grandchildren.
-The average age of 2 grandparents is 67 years, the average age of 2 parents is 35 years, and the average age of 3 grandchildren is 6 years.
-Find the average age of the whole family.
+Find the average of all even numbers between 104 and 148.
 
 Solution: 
-Note: Formula of Average = Sum of observations / No. of observations.
+Note: When the sequence forms Arithmetic Progression then
+      average = (first term + last term) ÷ 2.
+      AP (Arithmetic Progression) is a sequence of numbers in which the difference between any two consecutive terms is always the same.
 
-Total age of grandparents        = 2 × 67 = 134
-Total age of parents             = 2 × 35 = 70
-Total age of grandchildren       = 3 × 6 = 18
+The even numbers between 104 and 148 are in an arithmetic sequence:
+106, 108, 110, … , 146
 
-Original total age of family = 134 + 70 + 18 = 222
-Total number of family members = 2 + 2 + 3 = 7
-
-Average age of family = 222 ÷ 7 = 31.71 ✅
+In an arithmetic sequence, the average = (First term + Last term) ÷ 2
+Average = (106 + 146) ÷ 2 = 252 ÷ 2 = 126 ✅
 
 Final Answer
-👍 Average age of the family = 31.71 years (approx.)
+👍 The average of even numbers between 104 and 148 = 126
+
 
