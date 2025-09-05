@@ -1,0 +1,22 @@
+Problem on Number System-6 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Number System.
+
+Problem:
+Find a positive number which when increased by 7 is equal to 30 times the reciprocal of the number.
+
+Solution:
+
+Let the number = x
+Equation:
+x + 7 = 30/x
+x² + 7x = 30
+x² + 7x − 30 = 0
+(x + 10)(x − 3) = 0
+
+So, x = −10 or x = 3
+
+Take positive → x = 3 ✅
+
+👍 Final Answer:
+The required positive number = 3
