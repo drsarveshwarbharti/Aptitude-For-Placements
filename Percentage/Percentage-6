@@ -1,0 +1,27 @@
+Problem on Percentage-6 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of percentage and some basic calculation.
+
+Problem:
+Y has to score 40% marks to pass. 
+He gets 20 marks and fails by 40 marks.
+The maximum marks of the exam are?
+
+Solution:
+Assume maximum marks = 100 
+
+Marks required to pass = 40% of 100
+                       = 40/100 × 100
+                       = 40
+
+Y gets 20 marks and fails by 40 marks, so passing marks = Y’s marks + 40
+                                                        = 20 + 40
+                                                        = 60 
+
+Find actual maximum marks
+If 40% of maximum marks = 60, then
+Maximum marks = 60 ÷ 40 × 100
+              = 150 ✅
+
+👍 Final Answer:
+Maximum marks of the exam = 150
