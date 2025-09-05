@@ -1,0 +1,29 @@
+Problem on Percentage-7 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of percentage and some basic calculation.
+
+Problem:
+In an election which was contested by 2 candidates, 
+one candidate got 40% of total votes and yet lost by 1000 votes. 
+Find the total number of votes cast in the election.
+
+Solution:
+Let total votes = 100x 
+
+Votes received by the losing candidate = 40% of total votes
+                                       = 40% of 100x
+                                       = 40x
+
+Votes received by the winning candidate = Remaining votes = 100x − 40x = 60x
+
+Difference in votes = 60x − 40x = 20x
+This difference = 1000 votes
+
+Solve for x
+20x = 1000
+x = 50 
+
+Total votes = 100x = 100 × 50 = 5000 ✅
+
+👍 Final Answer:
+Total number of votes cast in the election = 5000
