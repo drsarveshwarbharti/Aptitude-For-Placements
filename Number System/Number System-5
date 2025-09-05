@@ -1,0 +1,24 @@
+Problem on Number System-5 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Number System.
+
+Problem:
+The product of two numbers is 120 and the sum of their squares is 289. The sum of the numbers is:
+
+Solution:
+We know the identity:
+(a + b)² = a² + b² + 2ab
+
+Given:
+a² + b² = 289
+ab = 120
+
+Now,
+(a + b)² = 289 + 2 × 120
+(a + b)² = 289 + 240 = 529 
+
+So,
+a + b = √529 = 23 ✅
+
+👍 Final Answer:
+The sum of the numbers = 23
