@@ -3,25 +3,30 @@ NOTE: This kind of question is very common in campus placements (TCS, Infosys, W
 because it mixes marked price, discount, and selling price.
 
 Problem
-A shopkeeper buys an article at a discount of 20% on the marked price. 
-He then sells it at a price which is 20% more than the marked price. 
-Find his profit percentage on the cost price.
+Ajay incurred a loss of 20% by selling a vase for Rs. 2880.
+To get a profit of 20%, at what price should he sell the vase?
 
 Solution
-Assume Marked Price (MP) = ₹100
+Let cost price (CP) = 100x 
 
-Cost Price (CP):
-Discount = 20% of 100 = 20
-CP = 100 – 20 = ₹80
+Loss is calculated on Cost Price
+Loss = 20% on CP
+     = 20x
 
-Selling Price (SP):
-SP = MP + 20% of MP = 100 + 20 = ₹120
+Selling price at 20% loss = CP - Loss
+                          = 100x − 20x
+                          = 80x
+According to ques, SP = 2880
+80x = 2880
+x = 2880 ÷ 80
+x = 36 
+Cost price = 100x = 100 × 36 = 3600 ✅
+Profit = 20% of CP
+       = 20% of 3600
 
-Profit:
-Profit = SP – CP = 120 – 80 = ₹40
+Selling price for 20% profit = Cost price + Profit
+                            = 3600 + 720
+                            = 4320 ✅
 
-Profit %:
-Profit % = (Profit ÷ CP) × 100 = (40 ÷ 80) × 100 = 50% ✅
-
-Final Answer
-👉 The shopkeeper makes a 50% profit.
+👍 Final Answer:
+To get a profit of 20%, Ajay should sell the vase for Rs. 4320
