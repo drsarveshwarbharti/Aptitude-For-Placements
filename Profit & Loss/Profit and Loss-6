@@ -1,0 +1,28 @@
+Problem on Profit & Loss-6 – Placement Exercise
+NOTE: This kind of question is very common in campus placements (TCS, Infosys, Wipro, Capgemini, etc.) 
+because it mixes marked price, discount, and selling price.
+
+Problem
+A shopkeeper earns a profit of 15% after selling a book at 20% discount on the printed price. 
+Find the ratio of the cost price and printed price of the book.
+
+Solution:
+Let the printed price = 100x 
+
+Selling price after 20% discount = 100x − 20% of 100x
+                                 = 100x − 20x
+                                 = 80x 
+Let the cost price = 100y
+
+Profit = 15% of cost price
+       = 15% of 100y
+
+Selling price = Cost price + Profit
+80x = 100y + 15% of 100y
+80x = 100y + 15y
+80x = 115y
+
+y : x = 80 : 115 = 16 : 23 ✅
+
+👍 Final Answer:
+The ratio of cost price to printed price = 16 : 23
