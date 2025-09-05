@@ -1,0 +1,26 @@
+Problem on Profit & Loss-4 – Placement Exercise
+NOTE: This kind of question is very common in campus placements (TCS, Infosys, Wipro, Capgemini, etc.) 
+because it mixes marked price, discount, and selling price.
+
+Problem:  
+A sold a car to B at a profit of 25%. 
+B incurred a loss of 15% while selling the same car to C.
+A spent Rs. 50000 for this car. 
+Find the price at which C bought it.
+
+Solution:
+Cost price for A = 50000
+
+Selling price of A to B = CP + 25% of 50000
+                        = 50000 + 25% of 50000
+                        = 50000 + 12500
+                        = 62500 
+
+B sold to C at a loss of 15%, 
+So selling price of B to C = CP − 15% of 62500
+                          = 62500 − 15% of 62500
+                          = 62500 − 9375
+                          = 53125 ✅
+
+👍 Final Answer:
+C bought the car for Rs. 53125
