@@ -1,0 +1,30 @@
+Problem on Number System-4 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Number System.
+
+Problem:
+
+The difference between a two-digit number and 
+the number obtained by interchanging the positions of its digits is 36.
+What is the difference between the two digits of that number?
+
+Solution:
+Note: A two-digit number is always represented in the form of 10x+y 
+      where x is tens digit and
+      y is ones digit.
+
+Let the tens digit = x
+Let the ones digit = y
+
+So, the two-digit number = 10x + y
+The number after interchanging = 10y + x
+
+Difference = (10x + y) − (10y + x)
+           = 9x − 9y
+           = 9(x − y)
+According to the question:
+9(x − y) = 36
+   x − y = 4 ✅
+
+👍 Final Answer:
+The difference between the two digits = 4
