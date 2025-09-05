@@ -1,0 +1,27 @@
+Problem on Profit & Loss-5 – Placement Exercise
+NOTE: This kind of question is very common in campus placements (TCS, Infosys, Wipro, Capgemini, etc.) 
+because it mixes marked price, discount, and selling price.
+
+Problem
+A fruit seller buys lemons at 2 for a rupee and sells them at 5 for 3 rupees. 
+Find his gain percent.
+
+Solution
+Note: Gain % = (Gain / Cost price) X 100
+
+Cost price of 2 lemons = 1 rupee
+Cost price of 1 lemon = 1 ÷ 2 = 0.5 rupee 
+
+Selling price of 5 lemons = 3 rupees
+Selling price of 1 lemon = 3 ÷ 5 = 0.6 rupee 
+
+Gain on 1 lemon = Selling price − Cost price
+                = 0.6 − 0.5
+                = 0.1 rupee 
+
+Gain percent = (Gain ÷ Cost price) × 100
+             = (0.1 ÷ 0.5) × 100
+             = 20% ✅
+
+👍 Final Answer:
+Gain percent = 20%
