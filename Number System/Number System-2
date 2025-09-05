@@ -1,0 +1,22 @@
+Problem on Number System-2 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Number System.
+
+Problem:
+If one-third of one-fourth of a number is 15, then three-tenth of that number is
+
+Solution:
+Let the number = x
+
+One-fourth of the number = x ÷ 4
+One-third of that = (x ÷ 4) ÷ 3 = x ÷ 12
+
+Given x ÷ 12 = 15
+      x = 15 × 12 = 180 ✅
+
+Now, three-tenth of that number = (3/10) × 180
+                                = 540 ÷ 10
+                                = 54 ✅
+
+👍 Final Answer:
+Three-tenth of the number = 54
