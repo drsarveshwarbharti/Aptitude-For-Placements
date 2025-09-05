@@ -9,6 +9,8 @@ He then gives a 10% discount on the marked price and sells it.
 Find profit percentage.
 
 Solution:
+Note: Profit % = (Profit/ CP) x 100
+
 Find Marked Price (MP)
 MP = CP + 25% of CP
 MP= 800 + 25% ​× 800
