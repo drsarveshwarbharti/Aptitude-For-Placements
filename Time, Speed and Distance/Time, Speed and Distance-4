@@ -1,0 +1,36 @@
+Problem on Time, Speed and Distance-4 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of simple formula and calculations.
+
+Problem:
+Rohit covers one-fourth of the total distance at 20 km/hr, 
+one- fourth at 10 km/h and rest of his journey at 80 km/h. 
+Find Rohit's average speed for the whole distance?
+
+Solution:
+Average speed is the total distance traveled divided by the total time taken.
+Let total distance = 100x 
+
+Distance 1 = 1/4 of 100x = 25x, 
+Speed 1 = 20 km/h 
+Time 1 = 25x ÷ 20 = 1.25x hours 
+
+Distance 2 = 25x,
+Speed 2 = 10 km/h 
+Time 2 = 25x ÷ 10 = 2.5x hours 
+
+Distance 3 = 50x,
+Speed 3 = 80 km/h 
+Time 3 = 50x ÷ 80 = 0.625x hours 
+
+Total time = 1.25x + 2.5x + 0.625x = 4.375x hours ✅
+
+Average speed = Total distance ÷ Total time
+              = 100x ÷ 4.375x
+              = 100 ÷ 4.375
+              ≈ 22.86 km/h ✅
+
+👍 Final Answer:
+Rohit’s average speed ≈ 22.86 km/h
+
+
