@@ -1,0 +1,21 @@
+Problem on Percentage-3 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of percentage and some basic calculation.
+
+Problem:
+If the price of rice is 30% less than the price of wheat, 
+then the price of wheat is how much percent more than the price of rice?
+
+Solution:
+Assume price of wheat = 100
+Price of rice = 100 - 30% of 100
+              = 100 − 30
+              = 70
+
+Difference between wheat and rice = 100 − 70 = 30
+Percentage more  = (Difference ÷ Price of rice) × 100
+                 = (30 ÷ 70) × 100
+                 = 42.86% ✅
+
+👍Final Answer:
+Price of wheat is 42.86% more than the price of rice
