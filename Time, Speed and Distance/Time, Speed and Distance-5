@@ -1,0 +1,33 @@
+Problem on Time, Speed and Distance-5 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of simple formula and calculations.
+
+Problem:
+Pratik travels 96 kms at a speed of 16 km/hr using a bike, 124 kms at 31 km/h by car and another 105 kms at 7 km/h in horse cart. 
+Then, find his average speed for the entire distance travelled?
+
+Solution:
+Average speed is the total distance traveled divided by the total time taken.
+
+Distance 1 = 96 km,
+Speed 1 = 16 km/h 
+Time 1 = 96 ÷ 16 = 6 hours 
+
+Distance 2 = 124 km, 
+Speed 2 = 31 km/h 
+Time 2 = 124 ÷ 31 = 4 hours 
+
+Distance 3 = 105 km,
+Speed 3 = 7 km/h 
+Time 3 = 105 ÷ 7 = 15 hours 
+
+Total distance = 96 + 124 + 105 = 325 km 
+Total time = 6 + 4 + 15 = 25 hours 
+
+Average speed = Total distance ÷ Total time
+              = 325 ÷ 25
+              = 13 km/h ✅
+
+👍 Final Answer:
+Pratik’s average speed for the entire journey = 13 km/h
+
