@@ -1,0 +1,25 @@
+Problem on Number System-3 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of Number System.
+
+Problem:
+Consider three consecutive odd integers
+Three times the first integer is 3 more than twice the third. 
+The third integer is:
+
+Solution:
+Let the first odd integer = x
+Then, the next two consecutive odd integers are:
+Second = x + 2
+Third = x + 4
+
+According to the problem:
+3 × first integer = 2 × third + 3
+3x = 2(x + 4) + 3
+3x = 2x + 8 + 3
+x = 11
+
+So, third integer = x + 4 = 11 + 4 = 15 ✅
+
+👍 Final Answer:
+The third integer is 15
