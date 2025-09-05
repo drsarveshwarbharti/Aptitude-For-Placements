@@ -3,26 +3,18 @@ NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc
 because it makes the use of simple formula and calculations.
 
 Problem:
-Surendra travels from home to office. 
-With an average speed of 50 km/h, he is late by 30 minutes.
-With a speed of 60 km/h, he reaches 10 minutes early.
-Find the distance between home and office.
+A train travels 180 km at a speed of 60 km/h. 
+On the return journey, its speed is 90 km/h.
+Find the average speed of the train for the whole journey.
 
 Solution:
-Note: Time = Distance ÷ Speed
-Let the distance between home and office = D km 
+For finding average speed for equal distances their is a formula
+Avg Speed = (2 x S1 x S2) / (S1+ S2)
 
-Time difference between the two speeds = 30 + 10 = 40 minutes = 40/60 hours = 2/3 hours ✅
+According to the question 
+S1 = 60km/hr 
+S2 = 90km/hr
 
-Time = Distance ÷ Speed
-Time at 50 km/h − Time at 60 km/h = 2/3 hours
-(D ÷ 50) − (D ÷ 60) = 2/3
+Avg Speed = (2 x 60 x 90) /(60 + 90) = 72km/hr ✅
 
-Take LCM of 50 and 60 = 300
-(6D − 5D) ÷ 300 = 2/3
-D ÷ 300 = 2/3
-D = 300 × 2/3
-D = 200 km ✅
-
-👍 Final Answer:
-Distance between home and office = 200 km
+👍Final Answer: The average speed is 72 km/h.
