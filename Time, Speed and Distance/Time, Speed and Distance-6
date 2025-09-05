@@ -9,7 +9,9 @@ With a speed of 60 km/h, he reaches 10 minutes early.
 Find the distance between home and office.
 
 Solution:
-Note: Time = Distance ÷ Speed
+Note:  Add times when one is late and one is early → because one increases time, the other decreases it
+       Subtract times when both are late (or both early) → because we want the difference due to speed change
+       Time = Distance ÷ Speed
 Let the distance between home and office = D km 
 
 Time difference between the two speeds = 30 + 10 = 40 minutes = 40/60 hours = 2/3 hours ✅
