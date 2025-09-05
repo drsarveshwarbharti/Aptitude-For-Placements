@@ -8,20 +8,21 @@ He gets 20 marks and fails by 40 marks.
 The maximum marks of the exam are?
 
 Solution:
-Assume maximum marks = 100 
+Assume maximum marks = 100x 
 
-Marks required to pass = 40% of 100
-                       = 40/100 × 100
-                       = 40
+Marks required to pass = 40% of 100x
+                       = 40/100 × 100x
+                       = 40x
 
 Y gets 20 marks and fails by 40 marks, so passing marks = Y’s marks + 40
                                                         = 20 + 40
                                                         = 60 
 
 Find actual maximum marks
-If 40% of maximum marks = 60, then
-Maximum marks = 60 ÷ 40 × 100
-              = 150 ✅
+If 40x = 60, then
+    x = 60 ÷ 40
+    x = 1.5
+Maximum marks = 100x = 100 × 1.5 = 150 ✅
 
 👍 Final Answer:
 Maximum marks of the exam = 150
