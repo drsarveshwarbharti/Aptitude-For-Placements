@@ -1,0 +1,29 @@
+Problem on Percentage-4 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of percentage and some basic calculation.
+
+Problem:
+The price of apple is first increased by 10% and
+then decreased by 10%. What is the change in the price of apple?
+
+Solution:
+Note: Percentage change = (Difference ÷ Original price) × 100
+Assume price of apple = 100
+
+Increase by 10%
+Price after increase = 100 + 10% of 100
+                     = 100 + 10
+                     = 110
+Decrease by 10%
+Price after decrease = 110 − 10% of 110
+                     = 110 − 11
+                     = 99
+Difference = Original price − Final price
+           = 100 − 99
+           = 1 
+Percentage change = (Difference ÷ Original price) × 100
+                  = (1 ÷ 100) × 100
+                  = 1% ✅
+
+👍 Final Answer:
+Price of apple decreases by 1% 
