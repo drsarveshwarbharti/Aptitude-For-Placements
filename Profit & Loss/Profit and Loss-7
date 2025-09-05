@@ -1,0 +1,24 @@
+Problem on Profit & Loss-7 – Placement Exercise
+NOTE: This kind of question is very common in campus placements (TCS, Infosys, Wipro, Capgemini, etc.) 
+because it mixes marked price, discount, and selling price.
+
+Problem
+A cheater manipulates his weighing machine so that it shows 1 kg for 970 grams. 
+Find his profit percent.
+
+Solution
+Note: In case of manipulation profit percentage can be written as-
+      Profit % = (Actual weight − Given weight) ÷ Given weight × 100
+
+Let the cost price of 1 kg of goods = 100 (taking 1 kg as reference)
+
+He actually gives 970 grams but charges for 1 kg.
+
+Profit = (Actual weight − Given weight) ÷ Given weight × 100
+Profit % = ((1000-970) ÷ 970) × 100
+Profit % = (30 ÷ 970) × 100
+         = 3/97 × 100
+         ≈ 3.09% (approx) ✅
+
+👍 Final Answer:
+Profit percent ≈ 3.09%
