@@ -9,7 +9,7 @@ If one of the numbers is 270,
 find the other number.
 
 Solution:
-Formula is First number × Second number = HCF × LCM
+Note: Formula is First number × Second number = HCF × LCM
 
 Substitute values 270 × Second number = 18 x 2340
                         Second number = 156✅
