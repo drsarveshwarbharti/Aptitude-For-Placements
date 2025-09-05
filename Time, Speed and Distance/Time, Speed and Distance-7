@@ -1,0 +1,27 @@
+Problem on Time, Speed and Distance-7 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of simple formula and calculations.
+
+Problem:
+Rohit drives from his home at a speed of 30 km/hr and reaches his bank 20 minutes late.
+Then the next day he increases his speed by 15 km/hr but still he is late by 8 minutes.
+How far is his bank from his home?
+
+Solution:
+Note:  Add times when one is late and one is early → because one increases time, the other decreases it
+       Subtract times when both are late (or both early) → because we want the difference due to speed change
+       Time = Distance ÷ Speed
+
+Let the distance between home and bank = D km
+
+Time difference between the two speeds = 20 − 8 = 12 minutes = 12/60 hours = 1/5 hours ✅
+
+Time at 30 km/h − Time at 45 km/h = 1/5 hours
+(D ÷ 30) − (D ÷ 45) = 1/5
+Take LCM of 30 and 45 = 90
+(3D − 2D) ÷ 90 = 1/5
+D ÷ 90 = 1/5
+D = 18 km ✅
+
+👍 Final Answer:
+Distance between Rohit’s home and bank = 18 km
