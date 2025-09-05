@@ -8,6 +8,10 @@ The thief runs at 5 m/s, and Ramesh chases him at 7 m/s.
 Find the distance the thief covers before Ramesh catches him.
 
 Solution:
+Note: Concept of relative speed:
+If two objects move towards each other, relative speed = sum of their speeds.
+If they move in the same direction, relative speed = difference of their speeds.
+
 Relative speed of Ramesh with respect to the thief = 7 − 5 = 2 m/s 
 
 Time taken to catch the thief = Distance ÷ Relative speed
