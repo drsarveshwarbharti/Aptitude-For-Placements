@@ -1,0 +1,22 @@
+Problem on Time, Speed and Distance-2 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) 
+because it makes the use of simple formula and calculations.
+
+Problem:
+Ramesh sees a thief at a distance of 80 m. 
+The thief runs at 5 m/s, and Ramesh chases him at 7 m/s. 
+Find the distance the thief covers before Ramesh catches him.
+
+Solution:
+Relative speed of Ramesh with respect to the thief = 7 − 5 = 2 m/s 
+
+Time taken to catch the thief = Distance ÷ Relative speed
+                              = 80 ÷ 2
+                              = 40 seconds 
+
+Distance covered by the thief = Speed of thief × Time
+                             = 5 × 40
+                             = 200 m ✅
+
+👍 Final Answer:
+The thief covers 200 m before Ramesh catches him.
