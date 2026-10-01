@@ -1,0 +1,31 @@
+Problem on Averages-12 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) because it makes the use of average and some basic logic.
+
+Problem:
+The average score of a batsman in 8 innings is 42 runs. 
+In the 9th inning, he scores 78 runs, which increases his average by 4 runs. 
+Find his new average after the 9th inning.
+
+Solution:
+Note: Formula of Average = Sum of observations / No. of observations.
+Sum of observations = Averages X No. of observations.
+
+Original average of batsman = 42 runs
+
+Number of innings = 8
+
+Original total score = 8 × 42 = 336 runs
+
+Score in 9th inning = 78 runs
+
+New total score = Original total score + Score in 9th inning
+New total score = 336 + 78 = 414 runs
+
+New number of innings = 9
+
+New average = 414 ÷ 9 = 46 runs
+
+Increase in average = 46 - 42 = 4 runs ✅
+
+Final Answer
+👍 New average of the batsman after the 9th inning = 46 runs
