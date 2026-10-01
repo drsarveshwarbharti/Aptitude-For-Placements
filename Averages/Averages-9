@@ -1,0 +1,24 @@
+Problem on Averages-9 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) because it makes the use of average and some basic logic.
+
+Problem:
+The average marks obtained by 25 students in a class is 64. If the average marks of 15 students is 72, find the average marks obtained by the remaining 10 students.
+
+Solution:
+Note: Formula of Average = Sum of observations / No. of observations.
+Sum of observations = Averages X No. of observations.
+
+Total sum of marks of 25 students = 25 × 64 = 1600
+
+Total sum of marks of 15 students = 15 × 72 = 1080
+
+Now the remaining 10 students' total marks = Total sum of marks of 25 students - Total sum of marks of 15 students
+
+Remaining 10 students' total marks = 1600 - 1080 = 520
+
+Number of remaining students = 10
+
+Average marks of remaining 10 students = 520 ÷ 10 = 52
+
+Final Answer
+👍 Average marks obtained by the remaining 10 students = 52
