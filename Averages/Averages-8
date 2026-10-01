@@ -1,0 +1,26 @@
+Problem on Averages-8 - Placement Exercise
+NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) because it makes the use of average and some basic logic.
+
+Problem:
+The average age of 30 students in a class is 18 years. If one student aged 16 years leaves the class and another student joins the class, the new average age becomes 18.5 years. Find the age of the new student.
+
+Solution:
+Note: Formula of Average = Sum of observations / No. of observations.
+Sum of observations = Averages X No. of observations.
+
+Original total sum of age = 30 × 18 = 540 years
+
+Now one student aged 16 years leaves the class.
+
+Remaining total sum of age = 540 - 16 = 524 years
+
+Now one new student joins the class, so the number of students remains 30.
+
+New total sum of age = New Average X New No. of students
+New total sum of age = 18.5 × 30 = 555 years
+
+Age of the new student = New total sum of age - Remaining total sum of age
+Age of the new student = 555 - 524 = 31 years
+
+Final Answer
+👍 Age of the new student = 31 years
