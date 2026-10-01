@@ -2,7 +2,9 @@ Problem on Averages-11 - Placement Exercise
 NOTE: This kind of question is very common in campus placement ( TCS, Wipro, etc.) because it makes the use of average and some basic logic.
 
 Problem:
-The average marks of 12 students in a class is 68. If the marks of two students are excluded, the average marks of the remaining 10 students becomes 65. If the marks of one of the excluded students is 72, find the marks obtained by the other student.
+The average marks of 12 students in a class is 68. 
+If the marks of two students are excluded, the average marks of the remaining 10 students becomes 65. 
+If the marks of one of the excluded students is 72, find the marks obtained by the other student.
 
 Solution:
 Note: Formula of Average = Sum of observations / No. of observations.
